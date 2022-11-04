@@ -23,4 +23,18 @@ export class ListIssuesComponent implements OnInit {
     return this.issues.allIssues();
   }
 
+  oncloseReport(){
+    this.showReportIssue = false;
+    this.Issues;
+  }
+
+  onCompleteIssue(confirmed: boolean){
+    if (confirmed && this.selectedIssue) {
+      this.issues.isComplete(this.selectedIssue);
+      this.issues;
+      
+    }
+    this.selectedIssue = null;
+  }
+
 }

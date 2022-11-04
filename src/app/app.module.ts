@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { ListIssuesComponent } from './components/list.issues/list.issues.component';
 import { IssueReportComponent } from './components/issue-report/issue-report.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dialog.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListIssuesComponent,
-    IssueReportComponent
+    IssueReportComponent,
+    ConfirmDialogComponent
   ],
   imports: [
     BrowserModule,
