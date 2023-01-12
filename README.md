@@ -1,3 +1,5 @@
+![Screenshot 2023-01-12 at 18-51-07 AnIssueTrackingSystem](https://user-images.githubusercontent.com/29811601/212144577-3118406e-3bde-48c4-bfe1-0b1ebf303430.png)
+![Screenshot 2023-01-12 at 18-50-49 AnIssueTrackingSystem](https://user-images.githubusercontent.com/29811601/212144595-850631eb-02bc-42ca-9f07-e810fbf1d4c4.png)
 # AnIssueTrackingSystem
 > In this project, we will develop an Angular application for managing and tracking issues using reactive forms and Clarity.
 ## My application will have several key features:
