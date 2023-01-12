@@ -1,5 +1,4 @@
-![Screenshot 2023-01-12 at 18-51-07 AnIssueTrackingSystem](https://user-images.githubusercontent.com/29811601/212144577-3118406e-3bde-48c4-bfe1-0b1ebf303430.png)
-![Screenshot 2023-01-12 at 18-50-49 AnIssueTrackingSystem](https://user-images.githubusercontent.com/29811601/212144595-850631eb-02bc-42ca-9f07-e810fbf1d4c4.png)
+
 # AnIssueTrackingSystem
 > In this project, we will develop an Angular application for managing and tracking issues using reactive forms and Clarity.
 ## My application will have several key features:
@@ -12,5 +11,9 @@
 + Creating the report issue form: We will create a form for users to report new issues, using reactive forms for validation and handling user input.
 + Creating the resolve issue modal: We will create a modal dialog for resolving an issue, which will allow users to update the status of an issue and add comments.
 + Testing and deployment: Once the application is complete, we will test it thoroughly and then deploy it to a production environmen
+
+
+![Screenshot 2023-01-12 at 18-50-49 AnIssueTrackingSystem](https://user-images.githubusercontent.com/29811601/212144738-17a44c4b-50f7-4c64-bd1b-2c2095c38384.png)
+![Screenshot 2023-01-12 at 18-51-07 AnIssueTrackingSystem](https://user-images.githubusercontent.com/29811601/212144777-3b58715e-7858-4a35-b9a4-32a9af2395e3.png)
 
 
