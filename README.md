@@ -1,5 +1,5 @@
 
-# AnIssueTrackingSystem
+# AnIssue Tracking System
 > In this project, we will develop an Angular application for managing and tracking issues using reactive forms and Clarity.
 ## My application will have several key features:
 + A list of issues displayed in a table that can be sorted and filtered.
